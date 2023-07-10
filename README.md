@@ -53,17 +53,16 @@
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 
 <p align="center">
   <a href="https://github.com/mujtabafromthedarkside/">
-    <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujtabafromthedarkside&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true&hide_progress=true&theme=transparent" />
+    <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujtabafromthedarkside&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true&hide_progress=true&theme=transparent" />
   </a>
 </p>
-
+<hr>
 <p align="center">
   <a href="https://github.com/mujtabafromthedarkside/">
-    <img width=325  src="https://github-readme-stats.vercel.app/api?username=mujtabafromthedarkside&show_icons=true&theme=transparent&rank_icon=percentile&include_all_commits=true" />
+    <img width=500 src="https://github-readme-stats.vercel.app/api?username=mujtabafromthedarkside&show_icons=true&theme=transparent&rank_icon=percentile&include_all_commits=true" />
   </a>
 </p>
 
@@ -89,11 +88,11 @@
   <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
 </p>
 -->
-
+<hr>
 <p align="center">
   <a href="https://www.github.com/mujtabafromthedarkside" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mujtabafromthedarkside?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
-
+<hr>
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=mujtabafromthedarkside/mujtabafromthedarkside" alt="mujtabfromthedarkside"/>       
 </p>
