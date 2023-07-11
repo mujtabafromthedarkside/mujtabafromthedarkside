@@ -64,7 +64,7 @@
 <hr>
 <p align="center">
   <a href="https://github.com/mujtabafromthedarkside/">
-    <img width=500 src="https://github-readme-stats.vercel.app/api?username=mujtabafromthedarkside&show_icons=true&theme=transparent&rank_icon=percentile&include_all_commits=true" />
+    <img width=500 src="https://github-readme-stats.vercel.app/api?username=mujtabafromthedarkside&show_icons=true&theme=transparent&rank_icon=percentile&include_all_commits=false" />
   </a>
 </p>
 
