@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://github.com/mujtabafromthedarkside/">
-    <img width=500 src="https://github-readme-stats-mujtabafromthedarkside.vercel.app/api/top-langs/?username=mujtabafromthedarkside&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true&hide_progress=true&theme=holi" />
+    <img width=500 src="https://github-readme-stats-gamma-nine-50.vercel.app/api/top-langs/?username=mujtabafromthedarkside&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true&hide_progress=true&theme=holi" />
   </a>
 </p>
 <hr>
@@ -70,7 +70,7 @@
 <hr>
 <p align="center">
   <a href="https://github.com/mujtabafromthedarkside/">
-    <img width=500 src="https://github-readme-stats-mujtabafromthedarkside.vercel.app/api?username=mujtabafromthedarkside&show_icons=true&theme=holi&rank_icon=percentile&include_all_commits=false" />
+    <img width=500 src="https://github-readme-stats-gamma-nine-50.vercel.app/api?username=mujtabafromthedarkside&show_icons=true&theme=holi&rank_icon=percentile&include_all_commits=false" />
   </a>
 </p>
 <hr>
