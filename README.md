@@ -56,12 +56,12 @@
 
 <!-- <h2 align="center">⚡ Stats ⚡</h2> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/mujtabafromthedarkside/">
     <img width=500 src="https://github-readme-stats-gamma-nine-50.vercel.app/api/top-langs/?username=mujtabafromthedarkside&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true&hide_progress=true&theme=holi" />
   </a>
 </p>
-<hr>
+<hr> -->
 <p align="center">
   <a href="https://github.com/mujtabafromthedarkside/">
     <img width=500 src="https://github-readme-stats-mujtabafromthedarkside.vercel.app/api/wakatime?username=stakudog&v=2&hide=text,json,toml,markdown&langs_count=5&custom_title=Wakatime%20Stats%20since%2010/07/23&theme=holi" />
