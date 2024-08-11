@@ -63,19 +63,19 @@
 </p>
 <hr> -->
 <p align="center">
-  <a href="https://github.com/mujtabafromthedarkside/">
+  <a href="https://github.com/mujtabafromthedarkside](https://github-readme-stats-mujtabafromthedarkside.vercel.app/api/wakatime?username=stakudog&v=2&hide=text,json,toml,markdown&langs_count=5&custom_title=Wakatime%20Stats%20since%2010/07/23&theme=holi">
     <img width=500 src="https://github-readme-stats-mujtabafromthedarkside.vercel.app/api/wakatime?username=stakudog&v=2&hide=text,json,toml,markdown&langs_count=5&custom_title=Wakatime%20Stats%20since%2010/07/23&theme=holi" />
   </a>
 </p>
 <hr>
 <p align="center">
-  <a href="https://github.com/mujtabafromthedarkside/">
+  <a href="https://github-readme-stats-gamma-nine-50.vercel.app/api?username=mujtabafromthedarkside&show_icons=true&theme=holi&rank_icon=percentile&include_all_commits=false">
     <img width=500 src="https://github-readme-stats-gamma-nine-50.vercel.app/api?username=mujtabafromthedarkside&show_icons=true&theme=holi&rank_icon=percentile&include_all_commits=false" />
   </a>
 </p>
 <hr>
 <p align="center">
-  <a href="https://github.com/mujtabafromthedarkside/">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=mujtabafromthedarkside&theme=tokyonight&hide_current_streak=true">
     <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=mujtabafromthedarkside&theme=tokyonight&hide_current_streak=true" />
   </a>
 </p>
