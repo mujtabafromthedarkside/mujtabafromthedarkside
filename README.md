@@ -63,7 +63,7 @@
 </p>
 <hr> -->
 <p align="center">
-  <a href="https://github.com/mujtabafromthedarkside](https://github-readme-stats-mujtabafromthedarkside.vercel.app/api/wakatime?username=stakudog&v=2&hide=text,json,toml,markdown&langs_count=5&custom_title=Wakatime%20Stats%20since%2010/07/23&theme=holi">
+  <a href="https://github-readme-stats-mujtabafromthedarkside.vercel.app/api/wakatime?username=stakudog&v=2&hide=text,json,toml,markdown&langs_count=5&custom_title=Wakatime%20Stats%20since%2010/07/23&theme=holi">
     <img width=500 src="https://github-readme-stats-mujtabafromthedarkside.vercel.app/api/wakatime?username=stakudog&v=2&hide=text,json,toml,markdown&langs_count=5&custom_title=Wakatime%20Stats%20since%2010/07/23&theme=holi" />
   </a>
 </p>
