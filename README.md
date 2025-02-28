@@ -8,17 +8,14 @@
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
-<p align="center">
-  Hi, I'm Mujtaba Omar, a Computer Science undergraduate student from Pakistan
+<p align="left">
+  Hi, I'm Mujtaba Omar, a Computer Science undergraduate student from Pakistan. I'm currently studying for a Bachelor's degree in Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)
+  I love automation, logical thinking and problem solving.
   <br>
-  💻 I love automation, logical thinking and problem solving.
   <br>
-  📚 I have experience in competitive programming and full-stack app development (especially mobile apps). During my bachelors, I have tried to explore most of the software world be it blockchain, AI or development, though only from the surface.
-  <br>
-  📫 How to reach me 👇
+  I have experience in competitive programming and full-stack app development (especially mobile apps). During my bachelors, I have tried to explore most of the software world be it blockchain, AI or development, though only from the surface.
 </p>
 
 <hr>
