@@ -9,13 +9,13 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="left">
-  Hi, I'm Mujtaba Omar, a Computer Science undergraduate student from Pakistan. I'm currently studying for a Bachelor's degree in Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)
+  Hi, I'm Mujtaba Omar. I did my undergraduate in Computer Science from Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)
   <br>
   <br>
   I love automation, logical thinking and problem solving.
   <br>
   <br>
-  I have experience in competitive programming and full-stack app development (especially mobile apps). During my bachelors, I have tried to explore most of the software world be it blockchain, AI or development, though only from the surface.
+  While my projects so far have been all over the place, my areas of interest are Backend Engineering, Computer Vision and Embedded Systems.
 </p>
 
 <hr>
